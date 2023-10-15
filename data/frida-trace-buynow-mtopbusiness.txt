@@ -1,0 +1,2900 @@
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemRecommendRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemRecommendRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemDetailRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemRecommendRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemDetailRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemDetailRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB15.MTOP18"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB16.MTOP19"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB15.MTOP18"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB15.MTOP18"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB16.MTOP19"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB16.MTOP19"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.common.request.EvaluatesRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.common.request.EvaluatesRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.common.request.EvaluatesRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB17.MTOP20"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: java.lang.Object, $className: com.alibaba.emas.publish.channel.mtop.PublishMtopRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder>"
+MtopBuilder.syncRequest()
+MtopBuilder.createListenerProxy(null)
+<= "<instance: mtopsdk.mtop.common.listener.MtopBaseListenerProxy>"
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: mtopsdk.mtop.common.listener.MtopBaseListenerProxy>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: mtopsdk.mtop.common.listener.MtopBaseListenerProxy>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB17.MTOP20"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB17.MTOP20"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemDetailRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemDetailRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemDetailRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB18.MTOP22"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemRecommendRequest>", "10005890@damai_android_8.7.1")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemRecommendRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.projectdetailitem.request.ProjectItemRecommendRequest>", "10005890@damai_android_8.7.1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB19.MTOP23"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.syncRequest()
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBusiness.isNeedAuth()
+<= false
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB18.MTOP22"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB18.MTOP22"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.common.request.EvaluatesRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.common.request.EvaluatesRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.projectdetail.common.request.EvaluatesRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB20.MTOP24"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB19.MTOP23"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB19.MTOP23"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB20.MTOP24"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB20.MTOP24"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.sku.qilin.request.SkuDoloresRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.sku.qilin.request.SkuDoloresRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.sku.qilin.request.SkuDoloresRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB21.MTOP25"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopBBCAreaInfoRequestNew>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopBBCAreaInfoRequestNew>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopBBCAreaInfoRequestNew>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB22.MTOP26"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB21.MTOP25"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB21.MTOP25"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB22.MTOP26"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB22.MTOP26"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.sku.qilin.request.SkuDoloresRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.sku.qilin.request.SkuDoloresRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.sku.qilin.request.SkuDoloresRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB23.MTOP27"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB23.MTOP27"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB23.MTOP27"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopBBCAreaInfoRequestNew>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopBBCAreaInfoRequestNew>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopBBCAreaInfoRequestNew>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB24.MTOP28"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB24.MTOP28"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB24.MTOP28"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.seat.request.MtopSeatDynamicRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.seat.request.MtopSeatDynamicRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.seat.request.MtopSeatDynamicRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.seat.request.MtopSeatDynamicRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB25.MTOP29"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.seat.request.MtopSeatDynamicRequest$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.seat.request.MtopStatusCompressRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.seat.request.MtopStatusCompressRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.seat.request.MtopStatusCompressRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.seat.request.MtopStatusCompressRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB26.MTOP30"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.seat.request.MtopStatusCompressRequest$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB25.MTOP29"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB25.MTOP29"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB26.MTOP30"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB26.MTOP30"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopCalcTicketPriceRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopCalcTicketPriceRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopCalcTicketPriceRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.seatbiz.seat.qilin.request.MtopCalcTicketPriceRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB27.MTOP31"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.seat.helper.SeatCalculator$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB27.MTOP31"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB27.MTOP31"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.domain.MtopRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB28.MTOP32"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.useWua()
+MtopBuilder.useWua()
+MtopBusiness.useWua(4)
+MtopBusiness.useWua(4)
+MtopBuilder.useWua(4)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setCustomDomain("mtop.damai.cn")
+MtopBuilder.setCustomDomain("mtop.damai.cn")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setBizId(24)
+MtopBuilder.setBizId(24)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setErrorNotifyAfterCache(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: com.taobao.android.ultron.datamodel.imp.DMRequester$Response>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB28.MTOP32"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB28.MTOP32"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB29.MTOP33"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setConnectionTimeoutMilliSecond(5000)
+MtopBuilder.setConnectionTimeoutMilliSecond(5000)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setSocketTimeoutMilliSecond(5000)
+MtopBuilder.setSocketTimeoutMilliSecond(5000)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB29.MTOP33"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB29.MTOP33"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.build("<instance: mtopsdk.mtop.domain.MtopRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB30.MTOP34"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.useWua()
+MtopBuilder.useWua()
+MtopBusiness.useWua(4)
+MtopBusiness.useWua(4)
+MtopBuilder.useWua(4)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setCustomDomain("mtop.damai.cn")
+MtopBuilder.setCustomDomain("mtop.damai.cn")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setBizId(24)
+MtopBuilder.setBizId(24)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setErrorNotifyAfterCache(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: com.taobao.android.ultron.datamodel.imp.DMRequester$Response>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBuilder.getMtopContext()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBuilder.getMtopContext()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.build("<instance: mtopsdk.mtop.domain.MtopRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB31.MTOP35"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(false)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setPageUrl("https://mtop.damai.cn//gw/mtop.trade.order.create/4.0/_____tmd_____/punish?x5secdata=xd0f8622a64857f7ccf8308e350be08cd3c61128ad691267781697388371a-717315356a-1565550970abaac2bajcappuzzle__bx__mtop.damai.cn%3A443%2Fgw%2Fmtop.trade.order.create%2F4.0&x5step=2&tmd_nc=1&http_referer=https://sec.taobao1111.com/")
+MtopBuilder.setPageUrl("https://mtop.damai.cn//gw/mtop.trade.order.create/4.0/_____tmd_____/punish?x5secdata=xd0f8622a64857f7ccf8308e350be08cd3c61128ad691267781697388371a-717315356a-1565550970abaac2bajcappuzzle__bx__mtop.damai.cn%3A443%2Fgw%2Fmtop.trade.order.create%2F4.0&x5step=2&tmd_nc=1&http_referer=https://sec.taobao1111.com/")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setReqSource(1)
+MtopBuilder.setReqSource(1)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: com.taobao.tao.remotebusiness.js.MtopJSBridge$MtopJSListener>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB31.MTOP35"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB31.MTOP35"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBuilder.getMtopContext()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBuilder.getMtopContext()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.retryRequest()
+MtopBusiness.cancelRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy35>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB32.MTOP36"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setConnectionTimeoutMilliSecond(5000)
+MtopBuilder.setConnectionTimeoutMilliSecond(5000)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setSocketTimeoutMilliSecond(5000)
+MtopBuilder.setSocketTimeoutMilliSecond(5000)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB32.MTOP36"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB32.MTOP36"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB30.MTOP34"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB30.MTOP34"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB33.MTOP37"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.trade.newtradeorder.ui.orderdetail.presenter.OrderDetailPresenter$5>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB33.MTOP37"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB33.MTOP37"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.banner.request.OrderDetailBannerRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.banner.request.OrderDetailBannerRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.banner.request.OrderDetailBannerRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.banner.request.OrderDetailBannerRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB34.MTOP38"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.trade.newtradeorder.ui.orderdetail.ui.viewholder.OrderDetailGuideViewHolder$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB34.MTOP38"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB34.MTOP38"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailCancelRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailCancelRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailCancelRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailCancelRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB35.MTOP39"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.trade.newtradeorder.ui.orderdetail.presenter.OrderDetailPresenter$8>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB35.MTOP39"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB35.MTOP39"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderdetail.net.OrderDetailRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB36.MTOP40"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.trade.newtradeorder.ui.orderdetail.presenter.OrderDetailPresenter$5>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB36.MTOP40"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB36.MTOP40"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.banner.request.OrderDetailBannerRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.banner.request.OrderDetailBannerRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.banner.request.OrderDetailBannerRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.banner.request.OrderDetailBannerRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB37.MTOP41"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.trade.newtradeorder.ui.orderdetail.ui.viewholder.OrderDetailGuideViewHolder$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB37.MTOP41"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB37.MTOP41"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderlist.net.OrderListRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderlist.net.OrderListRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderlist.net.OrderListRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderlist.net.OrderListRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB38.MTOP42"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.trade.newtradeorder.ui.orderlist.presenter.OrderListPresenter$3>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderlist.net.OrderListRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderlist.net.OrderListRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderlist.net.OrderListRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.trade.newtradeorder.ui.orderlist.net.OrderListRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB39.MTOP43"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.trade.newtradeorder.ui.orderlist.presenter.OrderListPresenter$3>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.pictures.bricks.myorder.request.MyOrderListRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.pictures.bricks.myorder.request.MyOrderListRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.pictures.bricks.myorder.request.MyOrderListRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB40.MTOP44"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB38.MTOP42"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB39.MTOP43"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB38.MTOP42"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.getSeqNo()
+<= "MB39.MTOP43"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB40.MTOP44"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB40.MTOP44"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.user.userhome.model.UserHomeDataRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.user.userhome.model.UserHomeDataRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.user.userhome.model.UserHomeDataRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.user.userhome.model.UserHomeDataRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB41.MTOP45"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.mine.userinfo.fragment.MineUserCenterFragment$10>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBusiness.genSeqNo()
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+<= "MB42.MTOP46"
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.genSeqNo()
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+<= "MB43.MTOP47"
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBusiness.showLoginUI(true)
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.user.userhome.model.UserDynamicRequest>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.user.userhome.model.UserDynamicRequest>", null)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.user.userhome.model.UserDynamicRequest>", null)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.user.userhome.model.UserDynamicRequest>", null)
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBusiness.genSeqNo()
+<= "MB44.MTOP48"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.common.badge.request.BadgeMTopRequestHelper$2>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.common.badge.request.BadgeMTopRequestHelper$2>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBusiness.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.asyncRequest()
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBusiness.startRequest(null)
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+MtopBusiness.startRequest(0, null)
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopContext.$init()
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBuilder.asyncRequest()
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.user.userhome.fragment.MineDynamicFragment$5>")
+MtopBusiness.isNeedAuth()
+MtopContext.$init()
+<= false
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.wannasee.Wanna2SeeRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.wannasee.Wanna2SeeRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.wannasee.Wanna2SeeRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.wannasee.Wanna2SeeRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB45.MTOP49"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.commonbusiness.wannasee.model.WannaSeeModel$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= false
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.wannasee.Wanna2SeeRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.wannasee.Wanna2SeeRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.wannasee.Wanna2SeeRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.wannasee.Wanna2SeeRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB46.MTOP50"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.commonbusiness.wannasee.model.WannaSeeModel$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB41.MTOP45"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB42.MTOP46"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB43.MTOP47"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB41.MTOP45"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.getSeqNo()
+<= "MB42.MTOP46"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB44.MTOP48"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB43.MTOP47"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.ticklet.TickletPreloadRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.ticklet.TickletPreloadRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.ticklet.TickletPreloadRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB47.MTOP51"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(false)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB44.MTOP48"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB47.MTOP51"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB47.MTOP51"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB46.MTOP50"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB46.MTOP50"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB45.MTOP49"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB45.MTOP49"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.homepage.request.BottomSheetRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.homepage.request.BottomSheetRequest>", null)
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB48.MTOP52"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.homepage.request.BottomSheetRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.homepage.request.BottomSheetRequest>", null)
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.genSeqNo()
+<= "MB49.MTOP53"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+MtopBusiness.showLoginUI(false)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.common.badge.request.BadgeMTopRequestHelper$2>")
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.homepage.MainActivity$10>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.startRequest(null)
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.startRequest(0, null)
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.asyncRequest()
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopContext.$init()
+MtopBuilder.asyncRequest()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBusiness.isNeedAuth()
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= false
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.pictures.abtest.request.ABTestUploadRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.pictures.abtest.request.ABTestUploadRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.pictures.abtest.request.ABTestUploadRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB50.MTOP54"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB51.MTOP55"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(false)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.common.badge.request.BadgeMTopRequestHelper$2>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB49.MTOP53"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB50.MTOP54"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB48.MTOP52"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB51.MTOP55"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB49.MTOP53"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.getSeqNo()
+<= "MB50.MTOP54"
+MtopBusiness.isTaskCanceled()
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+<= false
+MtopBuilder.getReqContext()
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.common.badge.request.BadgeQueryRequest>", null)
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.genSeqNo()
+<= "MB52.MTOP56"
+MtopBusiness.getSeqNo()
+<= "MB48.MTOP52"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+<= null
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(false)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.common.badge.request.BadgeMTopRequestHelper$2>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBusiness.getSeqNo()
+<= "MB51.MTOP55"
+MtopBusiness.isTaskCanceled()
+<= false
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getReqContext()
+MtopBuilder.mtopCommitStatData(false)
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.yymidservice.popup.request.requestparam.PopupRequestParam>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.yymidservice.popup.request.requestparam.PopupRequestParam>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: com.alibaba.yymidservice.popup.request.requestparam.PopupRequestParam>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB53.MTOP57"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB52.MTOP56"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB52.MTOP56"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB53.MTOP57"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB53.MTOP57"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.home.request.HomeFloatLayerRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.home.request.HomeFloatLayerRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.home.request.HomeFloatLayerRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.home.request.HomeFloatLayerRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB54.MTOP58"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.homepage.MainActivity$11>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.calendar.request.CategoryCalendarRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.calendar.request.CategoryCalendarRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.calendar.request.CategoryCalendarRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.commonbusiness.calendar.request.CategoryCalendarRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB55.MTOP59"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.homepage.util.CalendarRequest$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.homepage.request.HomeConfigRequest>")
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.homepage.request.HomeConfigRequest>", null)
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.homepage.request.HomeConfigRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.homepage.request.HomeConfigRequest>", null)
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", null)
+MtopBusiness.genSeqNo()
+<= "MB56.MTOP60"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("channel_from", "damai_market")
+MtopBuilder.addHttpQueryParameter("channel_from", "damai_market")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("appType", "1")
+MtopBuilder.addHttpQueryParameter("appType", "1")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("osType", "2")
+MtopBuilder.addHttpQueryParameter("osType", "2")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("source", "10101")
+MtopBuilder.addHttpQueryParameter("source", "10101")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.addHttpQueryParameter("version", "6000178")
+MtopBuilder.addHttpQueryParameter("version", "6000178")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(true)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+MtopBuilder.headers("<instance: java.util.Map, $className: java.util.HashMap>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.registerListener("<instance: com.taobao.tao.remotebusiness.IRemoteListener, $className: cn.damai.homepage.request.HomeConfigRequest$1>")
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBuilder.setJsonType("<instance: mtopsdk.mtop.domain.JsonTypeEnum>")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBusiness.addHttpQueryParameter("type", "originaljson")
+MtopBuilder.addHttpQueryParameter("type", "originaljson")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.startRequest(null)
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: java.lang.Object, $className: com.taobao.update.datasource.mtop.UpdateRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder>"
+MtopBuilder.syncRequest()
+MtopBuilder.createListenerProxy(null)
+<= "<instance: mtopsdk.mtop.common.listener.MtopBaseListenerProxy>"
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: mtopsdk.mtop.common.listener.MtopBaseListenerProxy>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: mtopsdk.mtop.common.listener.MtopBaseListenerProxy>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB54.MTOP58"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB54.MTOP58"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB55.MTOP59"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB55.MTOP59"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB56.MTOP60"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB56.MTOP60"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.build("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.ticklet.TickletPreloadRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.ticklet.TickletPreloadRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.IMTOPDataObject, $className: cn.damai.ticklet.TickletPreloadRequest>", "10005890@damai_android_8.7.1")
+MtopBuilder.$init("<instance: mtopsdk.mtop.intf.Mtop>", "<instance: mtopsdk.mtop.domain.MtopRequest>", "10005890@damai_android_8.7.1")
+MtopBusiness.genSeqNo()
+<= "MB57.MTOP62"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.showLoginUI(false)
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+MtopBuilder.reqMethod("<instance: mtopsdk.mtop.domain.MethodEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBusiness.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+MtopBuilder.protocol("<instance: mtopsdk.mtop.domain.ProtocolEnum>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+<= "<instance: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.getMtopInstance()
+<= "<instance: mtopsdk.mtop.intf.Mtop>"
+MtopBusiness.syncRequest()
+MtopBusiness.startRequest()
+MtopBusiness.startRequest(0, null)
+MtopBuilder.addListener("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+<= "<instance: mtopsdk.mtop.intf.MtopBuilder, $className: com.taobao.tao.remotebusiness.MtopBusiness>"
+MtopBuilder.mtopCommitStatData(false)
+MtopBuilder.asyncRequest()
+MtopBuilder.asyncRequest("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopBuilder.createMtopContext("<instance: mtopsdk.mtop.common.MtopListener, $className: $Proxy16>")
+MtopContext.$init()
+<= "<instance: mtopsdk.framework.domain.MtopContext>"
+MtopBusiness.isNeedAuth()
+<= false
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+<= "<instance: mtopsdk.mtop.common.ApiID>"
+MtopBusiness.isNeedAuth()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB57.MTOP62"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBusiness.getSeqNo()
+<= "MB57.MTOP62"
+MtopBusiness.isTaskCanceled()
+<= false
+MtopBuilder.getReqContext()
+<= null
+MtopBusiness.doFinish("<instance: mtopsdk.mtop.domain.MtopResponse>", null)
+MtopBuilder.getReqContext()
+<= null
+<= "<instance: mtopsdk.mtop.domain.MtopResponse>"
